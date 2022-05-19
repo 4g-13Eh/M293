@@ -1,0 +1,25 @@
+.willkommen{
+    background-color: olivedrab;
+    color: red;
+}
+
+.blaue{
+    background-color: aqua;
+    color: black;
+}
+
+.padding {
+    padding: 40px;
+}
+
+.centertext{
+    text-align: center;
+}
+
+#navigation{
+    font-family: "Papyrus", fantasy;
+}
+
+.title{
+    font-size: 2cm;
+}
