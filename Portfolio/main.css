@@ -23,3 +23,7 @@
 .title{
     font-size: 2cm;
 }
+
+a:visited{
+    color: darkgreen;
+}
