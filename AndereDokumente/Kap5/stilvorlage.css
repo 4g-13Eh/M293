@@ -1,0 +1,110 @@
+body{
+	background-color: lightgray;
+	font-family: Arial, Helvetic, Sans-Serif;
+}
+
+#inhaltbody{
+	background-color: lightskyblue;
+}
+
+#kopfbody, #fussbody, #menuebody{
+	background-color: silver;
+}
+
+#kopfbody, #fussbody{
+	text-align: center;
+	margin: auto;
+}
+
+#kopfbody{
+	font-size: x-large;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+#fussbody{
+	font-size: large;
+}
+
+#menuebody h1{
+	font-size: large;
+}
+
+#menuebody h2{
+	font-size: small;
+}
+
+#webseite{
+	width: 975px;
+	height: 630px;
+	margin: 0 auto;
+}
+
+#kopf{
+	width: 975px;
+	height: 100px;
+}
+
+#menue{
+	width: 175px;
+	height: 450px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+#inhalt{
+	width: 790px;
+	height: 450px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+#fuss{
+	width: 975px;
+	height: 60px;
+	clear: both;
+}
+
+object{
+	width: 100%;
+	height: 100%;
+	border-style: solid;
+	border-color: whitesmoke;
+}
+
+#menuebody h1{
+	font-size: large;
+}
+
+#menuebody h2{
+	font-size: small;
+	padding-left: 10px;
+}
+
+table{
+	border-style: solid;
+	border-color: #A4A4A4;
+	border-width: 2px;
+}
+
+td{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FF0000;
+}
+
+cite{
+	color: gray;
+}
+
+samp{
+	color: blue;
+	font-weight: bolder;
+}
+
+.formel{
+	border-style: solid;
+	border-color: blue;
+}
